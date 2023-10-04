@@ -1,0 +1,16 @@
+{
+  "name": "seleniumtesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon .\tests\\FirstTest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "selenium-webdriver": "^4.13.0"
+  }
+}
